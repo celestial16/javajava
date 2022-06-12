@@ -1,2 +1,2 @@
-# javajava
-lolo
+# javascript-game
+lol
